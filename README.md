@@ -2,7 +2,7 @@
 ## ML linear regression deploys to Heroku
 ### A fish weight prediction machine learning model, based on its weight and height to predict how much weight of the fish.
 #### Get started
-```
+
 ##### Installing
 1. Go to Code button > HTTPS > Click copy button as demonstrate in the screenshot  
 ![copy_github_path](https://github.com/Arielcchy/ML-Cloud-fish_weight_prediction/blob/main/readme_pic/Picture1.png?raw=true)  
@@ -28,4 +28,4 @@ type command in the terminal: python Flask_fish.py
 ![copy_github_path](https://github.com/Arielcchy/ML-Cloud-fish_weight_prediction/blob/main/readme_pic/Picture1.png?raw=true)  
 You are ready for predicting fish weight now!  
 
-```
+

@@ -31,7 +31,7 @@ If no, open a new visual studio code window, drag and drop the folder you just c
 #### Running prediction
 Enter *fish height* and *fish length*, accept integer and float, then click *Predict* button. Bomb! You got the predict weight right away!  
 
-#### Credits  
+#### Credits - Thank you! 
 1.	SATISH GUNJAL, Multiple Linear Regression Fish Weight Prediction, https://www.kaggle.com/code/satishgunjal/multiple-linear-regression-fish-weight-prediction/notebook
 2.	Predicting fish species (Linear Regression Model), https://www.klmanalyticshub.com/predicting-type-of-fish-species-linear-regression-model/
 3.	Aung Pyae, https://www.kaggle.com/aungpyaeap/fish-market
